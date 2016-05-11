@@ -32,7 +32,7 @@ Code and devops samples (http://www.github.com/asancheza/)
 
 ### Algorithms
 
-- Leetcode 
+- Leetcode (https://github.com/asancheza/leetcode-python)
 - Merkle Tree (https://github.com/asancheza/merkle-tree)
 
 ### Swift
@@ -52,6 +52,10 @@ Code and devops samples (http://www.github.com/asancheza/)
 
 - Sorting (https://github.com/asancheza/sort-java)
 - Hashed Dictionary (https://github.com/asancheza/hashed-dictionary)
+- Circular Queues (https://github.com/asancheza/linked-array-queue)
+- Linked List Iterator (https://github.com/asancheza/linked-chain-iterator-java)
+- Stack (https://github.com/asancheza/linked-stack-java)
+- Canvas Android (https://github.com/asancheza/canvas-android)
 
 ## Devops
 ### Configuration Management Tools

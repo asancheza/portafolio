@@ -74,3 +74,7 @@ Code and devops samples (http://www.github.com/asancheza/)
 ### Iptables
 
 - Sample script policy (https://github.com/asancheza/iptables-bash)
+
+### AWS
+
+- Alfresco templates (https://github.com/asancheza/cloudformation-alfresco)

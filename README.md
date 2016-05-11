@@ -29,6 +29,7 @@ Code and devops samples (http://www.github.com/asancheza/)
 ### JS
 
 - Connect Four Game (https://github.com/asancheza/connect-four-js)
+- D3, Backbone, Angularjs and Nodejs: https://github.com/asancheza/js
 
 ### Algorithms
 

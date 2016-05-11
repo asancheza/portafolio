@@ -37,11 +37,12 @@ Code and devops samples (http://www.github.com/asancheza/)
 
 ### Swift
 
-- Tips Calculator ()
-- Imdb Movies ()
-- Yelp Client ()
-- Instagram Parse ()
-- Japanize ()
+- Tips Calculator (https://github.com/asancheza/swift/tree/master/tips)
+- Imdb Movies (https://github.com/asancheza/movies-swift)
+- Yelp Client (https://github.com/asancheza/yelp-client-swift)
+- Instagram Parse (https://github.com/asancheza/instagram-clone-swift)
+- Japanize (https://github.com/ccsf-japanese/japanize): Learning japanese app
+- Twitter Client (https://github.com/asancheza/twitter-client-swift)
 
 ### Go
 
@@ -66,6 +67,7 @@ Code and devops samples (http://www.github.com/asancheza/)
 ### CI/CD
 
 - CI/CD in AWS (https://github.com/asancheza/ci-deployment-aws)
+- Capistrano (https://github.com/asancheza/capistrano-skeleton)
 
 ### Rails 
 

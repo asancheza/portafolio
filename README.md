@@ -73,6 +73,10 @@ Code and devops samples (http://www.github.com/asancheza/)
 
 - Deployment (https://github.com/asancheza/rails-deployment)
 
+### Bash
+
+- Replace patterns (https://github.com/asancheza/replace-patterns-bash)
+
 ### Iptables
 
 - Sample script policy (https://github.com/asancheza/iptables-bash)

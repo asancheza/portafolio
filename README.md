@@ -20,6 +20,7 @@ Code and devops samples (http://www.github.com/asancheza/)
 - Parse (https://github.com/asancheza/parse-logs-python): Parse logs sample.
 - Distances (https://github.com/asancheza/distances-python): Calculate distances.
 - Basic calculator (https://github.com/asancheza/calculator-python): Basic calculator.
+- Flask login (https://github.com/asancheza/flask-python)
 
 ### PHP
 
@@ -32,12 +33,24 @@ Code and devops samples (http://www.github.com/asancheza/)
 ### Algorithms
 
 - Leetcode 
-- Hashed Dictionary (https://github.com/asancheza/hashed-dictionary)
 - Merkle Tree (https://github.com/asancheza/merkle-tree)
 
 ### Swift
 
+- Tips Calculator ()
+- Imdb Movies ()
+- Yelp Client ()
+- Instagram Parse ()
+- Japanize ()
+
 ### Go
+
+- Samples (https://github.com/asancheza/go-examples)
+
+### Java
+
+- Sorting (https://github.com/asancheza/sort-java)
+- Hashed Dictionary (https://github.com/asancheza/hashed-dictionary)
 
 ## Devops
 ### Configuration Management Tools
@@ -57,3 +70,7 @@ Code and devops samples (http://www.github.com/asancheza/)
 ### Rails 
 
 - Deployment (https://github.com/asancheza/rails-deployment)
+
+### Iptables
+
+- Sample script policy (https://github.com/asancheza/iptables-bash)
